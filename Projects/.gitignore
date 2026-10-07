@@ -1,0 +1,41 @@
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Build output
+build/
+dist/
+out/
+bin/
+obj/
+target/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+*.secret
+*.key
+
+# Generated/cache files
+.cache/
+*.cache

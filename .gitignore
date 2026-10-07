@@ -1,0 +1,67 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+~$*
+
+# Office temporary/lock files
+*.lock
+*.lck
+
+# Build/output
+build/
+dist/
+out/
+bin/
+obj/
+
+# Logs
+*.log
+
+# Archives
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+credentials.*
+secrets.*
+
+# Large/generated academic files
+*.aux
+*.bbl
+*.blg
+*.log
+*.synctex.gz
+*.toc
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MATLAB
+*.asv
+*.m~
